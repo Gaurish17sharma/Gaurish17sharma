@@ -21,10 +21,10 @@
 ### Statistics
 
 <a href="https://git.io/streak-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ary82&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17sharma&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ary82&layout=donut&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurish17sharma&layout=donut&theme=tokyonight" />
 </a>
 
 
