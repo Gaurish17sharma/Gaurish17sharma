@@ -19,7 +19,6 @@
 
 ### Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17sharma&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17sharma&theme=tokyonight" />
