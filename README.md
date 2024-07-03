@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  🔭 I’m currently working towards Full Stack JavaScript Projects
-- 🌱 I’m currently learning node.js
+-  🔭 I’m currently working towards Backend in Python
+- 🌱 I’m currently learning Data Structure and Algorithm in Python
 
 ---
 
