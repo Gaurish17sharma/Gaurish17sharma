@@ -49,12 +49,28 @@
 
 ### Statistics
 
+<div align="center">
+    <a href="">
+        <img height=200 align="center" src="https://readme-stats-sigma-nine.vercel.app/api?username=Gaurish17Sharma&theme=tokyonight" />
+    </a>
+    <a href="">
+        <img height=200 align="center" src="https://readme-stats-sigma-nine.vercel.app/api/top-langs/?username=Gaurish17Sharma&layout=donut&hide=html,css&theme=tokyonight" />
+    </a>
+</div>
 
-<a href="https://git.io/streak-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17sharma&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurish17sharma&layout=donut&theme=tokyonight" />
-</a>
+&nbsp;
 
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17Sharma&theme=tokyonight" />
+    </a>
+</div>
+
+---
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=ary82&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
