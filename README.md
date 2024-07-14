@@ -1,7 +1,7 @@
-## Hello there ! I'm Gaurish Sharma
+## Hello there ! I'm Gaurish Sharma 
 
--  🔭 I’m currently working towards Backend in Python
-- 🌱 I’m currently learning Data Structure and Algorithm in Python
+-  🔭 I’m currently working towards Backend in Python.
+- 🌱 I’m currently learning Data Structure and Algorithm in Python.
 
 ---
 
