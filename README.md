@@ -65,6 +65,7 @@
         <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17Sharma&theme=tokyonight" />
     </a>
 </div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gaurish17Sharma alt="GitHub Streak" /></a>
 
 ---
 
