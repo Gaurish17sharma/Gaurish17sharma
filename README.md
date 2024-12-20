@@ -61,7 +61,9 @@
 &nbsp;
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurish17Sharma&theme=tokyonight" />
+    </a>
 </div>
 
 ---
